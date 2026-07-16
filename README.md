@@ -15,7 +15,7 @@ I'm starting my journey in the tech world with a strong foundation in **Python**
 
 * **Languages:** Python
 * **Domains:** Business Analytics, Tech Management, Computer Hardware 
-* **Tools:** [Add any IDEs you use, e.g., VS Code, Jupyter]
+* **Tools:** vs code,git
 
 ## 🌱 Currently Exploring
 
